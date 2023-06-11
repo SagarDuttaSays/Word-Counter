@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SagarDuttaSays/Word-Counter.git/static/css/main.8f82de35.css",
+    "main.js": "/SagarDuttaSays/Word-Counter.git/static/js/main.84d22384.js",
+    "static/js/787.3a039655.chunk.js": "/SagarDuttaSays/Word-Counter.git/static/js/787.3a039655.chunk.js",
+    "index.html": "/SagarDuttaSays/Word-Counter.git/index.html",
+    "main.8f82de35.css.map": "/SagarDuttaSays/Word-Counter.git/static/css/main.8f82de35.css.map",
+    "main.84d22384.js.map": "/SagarDuttaSays/Word-Counter.git/static/js/main.84d22384.js.map",
+    "787.3a039655.chunk.js.map": "/SagarDuttaSays/Word-Counter.git/static/js/787.3a039655.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f82de35.css",
+    "static/js/main.84d22384.js"
+  ]
+}
